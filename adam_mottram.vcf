@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:Adam Mottram
+N:Mottram;Adam;;;
+LANG;PREF=1:en
+TITLE:Finance and Leasing Business Manager
+ORG;TYPE=Work:Equipment;TDX Ltd
+ADR;TYPE=Work:;;;Christchurch;;;
+TEL;TYPE=Cell:+64 21 978 205
+EMAIL;TYPE=Work:adam.mottram@tdxltd.co.nz
+URL;TYPE=Work:https://tdxltd.co.nz
+END:VCARD
